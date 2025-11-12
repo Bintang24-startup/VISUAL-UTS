@@ -1,0 +1,5 @@
+[project]
+name = "PySide Widgets Project"
+
+[tool.pyside6-project]
+files = ["db_connector.py", "donasi_form.py", "donasi_form.ui", "donatur_form.py", "donatur_form.ui", "form.ui", "main.py"]
